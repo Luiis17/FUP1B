@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'Este es un programa hace una regla de 3'
+4
+1
+16
+'Dame un numero'
+5
+1
+1
+a
+4
+1
+18
+'Dame otro numero'
+5
+1
+1
+b
+4
+1
+18
+'Dame otro numero'
+5
+1
+1
+c
+4
+1
+30
+'Tu regla es: ',c, 'x',b,'/',a
+6
+1
+5
+resul
+5
+c*b/a
+4
+1
+28
+'El resultado es:    ',resul
+1

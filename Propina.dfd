@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+'Este programa calcula  cuanto pagaras junto con la propina'
+4
+1
+25
+'Cuanto fue de la cuenta'
+5
+1
+6
+cuenta
+4
+1
+25
+'Cuantas personas fueron'
+5
+1
+5
+perso
+6
+3
+2
+r1
+11
+cuenta*0.10
+2
+r2
+9
+cuenta+r1
+2
+r3
+8
+r2/perso
+4
+1
+207
+'La propina sera de:                ',r1,'                                          El total a pagar es:         ',r2,'                                               El total a pagar por persona es:     ',r3
+1

@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+57
+'Este programa te la el total de tu compra en una tienda'
+4
+1
+72
+'Si quieres algo de la tienda pon la cantidad, si no lo quieres pones 0'
+4
+1
+43
+' Quieres un refresco su precio es de $10 '
+5
+1
+2
+p1
+4
+1
+40
+'Quieres unas papas su precio es de $10'
+5
+1
+2
+p2
+4
+1
+38
+'Quieres un chicle su precio es de $1'
+5
+1
+2
+p3
+4
+1
+39
+'Quieres una paleta su precio es de $2'
+5
+1
+2
+p4
+4
+1
+39
+'Quieres una paleta su precio es de $2'
+5
+1
+2
+p5
+6
+1
+5
+resul
+26
+p1*10+p2*10+p3*1+p4*2+p5*3
+4
+1
+28
+'El resultado es:    ',resul
+1

@@ -1,0 +1,104 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+65
+'Este programa dice el nivel a ocupar de agua y los min. a lavar'
+4
+1
+34
+'Dame la cantidad de ropa a lavar'
+5
+1
+5
+kilos
+7
+0
+1
+9
+kilos>=21
+7
+0
+1
+9
+kilos<=10
+7
+0
+1
+9
+kilos<=15
+7
+0
+1
+9
+kilos<=20
+13
+4
+1
+28
+'El nivel de agua es maximo'
+13
+13
+4
+1
+27
+'El nivel de agua es medio'
+13
+13
+4
+1
+28
+'El nivel de agua es minimo'
+13
+4
+1
+55
+'Seleciona el tipo de ropa 1.Delicada,2.Normal,3.Sucia'
+5
+1
+5
+selec
+7
+0
+1
+7
+selec=1
+7
+0
+1
+7
+selec=2
+7
+0
+1
+7
+selec=3
+13
+4
+1
+18
+'Se lavara 20 min'
+13
+13
+4
+1
+18
+'Se lavara 10 min'
+13
+13
+4
+1
+17
+'Se lavara 5 min'
+13
+13
+4
+1
+19
+'No se puede lavar'
+13
+1

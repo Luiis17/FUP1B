@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+54
+'Este es un programa calcula el àrea de un triangulo '
+4
+1
+14
+'Dame la base'
+5
+1
+4
+base
+4
+1
+16
+'Dame la altura'
+5
+1
+6
+altura
+6
+1
+5
+resul
+13
+base*altura/2
+4
+1
+37
+'El area del triangulo es:    ',resul
+1

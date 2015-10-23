@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'Este programa convierte MB a bytes,KB,GB,TB '
+4
+1
+33
+'Dame la cantidad a convertir:  '
+5
+1
+1
+a
+6
+3
+3
+bit
+13
+a*1024*1024*8
+5
+bytes
+11
+a*1024*1024
+2
+kb
+6
+a*1024
+6
+2
+2
+gb
+6
+a/1024
+2
+tb
+11
+a/1024/1024
+4
+1
+324
+'El resultado en bit es:  ',bit,'                                    El resultado en bytes es:       ',bytes, '                           El resultado en kilobytes es:   ',kb, '                                El resultado en GigaByte es:',gb,'                                                El resultado en TeraByte es: ',tb
+1

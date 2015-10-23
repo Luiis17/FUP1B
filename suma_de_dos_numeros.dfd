@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+'Este es un programa para sumar 2 numeros'
+4
+1
+16
+'Dame un numero'
+5
+1
+2
+n1
+4
+1
+18
+'Dame otro numero'
+5
+1
+2
+n2
+6
+1
+9
+resultado
+5
+n1+n2
+4
+1
+41
+'El resultado de la suma es:  ',resultado
+1
