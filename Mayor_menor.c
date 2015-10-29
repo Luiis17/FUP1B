@@ -2,30 +2,42 @@
 #include<conio.h> 
 main() 
 { 
-int a,b,i,VM,vm; //VM=VAlor Mayor, vm=Valor Menor 
+int a,b,c,d,e,mayor,menor;
 
-printf("\nCuantos Numeros quieres : "; 
+printf("Dame un numero : "); 
 scanf("%d",&a); 
-
-for(i=0; i<a; i++){ 
-
-printf("Dame un numero : "; 
+printf("Dame un numero : "); 
 scanf("%d",&b); 
+printf("Dame un numero : "); 
+scanf("%d",&c); 
+printf("Dame un numero : "); 
+scanf("%d",&d); 
+printf("Dame un numero : "); 
+scanf("%d",&e); 
 
-if(i==0){ 
+if(a>b)
+    {
+        mayor=a;
+        menor=b;
+    }
+    else
+    {
+        mayor=b;
+        menor=a;
+    }
+    if(mayor<c)
+        mayor=c;
+    if(mayor<d)
+        mayor=d;
+    if(mayor<e)
+        mayor=e;
+    if(menor>c)
+        menor=c;
+    if(menor>d)
+        menor=d;
+    if(menor>e)
+        menor=e;
 
-VM = b;//El primer unmero que introducimos es tanto el menor como el mayor 
-vm = b;//El primer unmero que introducimos es tanto el menor como el mayor 
-
-} else { 
-
-if(b>VM) 
-VM=b; 
-if(b<vm) 
-vm=b; 
-} 
-
-} 
-printf("\nEl numero mayor es : %d",VM); 
-printf("\nEl numero menor es : %d",vm); 
+printf("\nEl numero mayor es : %d",mayor); 
+printf("\nEl numero menor es : %d",menor); 
 }
